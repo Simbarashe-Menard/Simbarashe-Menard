@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I'm **Simba Mupeti**, a passionate **Full-Stack Developer | Cloud Engineer** with a love for coding, learning, and exploring the latest in cloud and web technologies, I specialize in creating robust, scalable applications using the **MERN stack and AWS services**.  
+I'm **Simba Mupeti**, a passionate **Dev | Cloud Engineer** with a love for coding, learning, and exploring the latest in cloud and web technologies, I specialize in creating robust, scalable applications using the **MERN stack and AWS services**.  
 
 
 ## 🛠️ Tech Stack
